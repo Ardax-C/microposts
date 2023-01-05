@@ -1,7 +1,7 @@
 # Microposts project 
 Utilizes ES6 classes, simple JSON server backend, and Babel Webpack built by Brad Traversy
 
-
+01/05/2023 - Still work in progress
 
 ## Babel Webpack Starter
 
