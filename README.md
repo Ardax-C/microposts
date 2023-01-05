@@ -1,4 +1,5 @@
-# Microposts project utilizing ES6 classes, simple JSON server backend, and Babel Webpack built by Brad Traversy
+# Microposts project 
+Utilizes ES6 classes, simple JSON server backend, and Babel Webpack built by Brad Traversy
 
 
 
