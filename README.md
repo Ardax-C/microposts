@@ -1,13 +1,15 @@
-# Microposts project 
+# Microposts project
+
 Utilizes ES6 classes, simple JSON server backend, and Babel Webpack built by Brad Traversy
 
-01/05/2023 - Still work in progress
+In order to use the api/db.json file you should run `npm run json;server` in git bash. The database utilizes the JSON Server found [here](https://www.npmjs.com/package/json-server).
 
 ## Babel Webpack Starter
 
 A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
 
 ### Version
+
 1.1.0
 
 ## Usage
@@ -21,13 +23,15 @@ $ npm install
 ```
 
 ### Serve
-To serve in the browser  - Runs webpack-dev-server
+
+To serve in the browser - Runs webpack-dev-server
 
 ```sh
 $ npm start
 ```
 
 ### Build
+
 Compile and build
 
 ```sh
