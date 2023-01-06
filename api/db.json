@@ -1,9 +1,24 @@
 {
   "posts": [
     {
-      "title": "?",
-      "body": "1",
+      "title": "New message board",
+      "body": "Say something spicy! 🔥",
       "id": 1
+    },
+    {
+      "title": "What is this place?",
+      "body": "Am I alone? 👽",
+      "id": 2
+    },
+    {
+      "title": "Hi",
+      "body": "Mom!",
+      "id": 3
+    },
+    {
+      "title": "Blah blah blah",
+      "body": "🥱🥱🥱",
+      "id": 4
     }
   ]
 }
