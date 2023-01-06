@@ -2,7 +2,7 @@
 
 Utilizes ES6 classes, simple JSON server backend, and Babel Webpack built by Brad Traversy
 
-In order to use the api/db.json file you should run `npm run json;server` in git bash. The database utilizes the JSON Server found [here](https://www.npmjs.com/package/json-server).
+In order to use the api/db.json file you should run `npm run json:server` in git bash. The database utilizes the JSON Server found [here](https://www.npmjs.com/package/json-server).
 
 ## Babel Webpack Starter
 
